@@ -1,0 +1,3 @@
+pagina para el usuario, mostrar informacion de la tienda y catalogo de los productos, contactar, comprar.
+registro en la platafroma ususario.
+dashboard para admin tienda.
